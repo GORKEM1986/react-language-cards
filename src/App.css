@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4d467;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+/*! Language Component Styling  */
+/********************************/
+.lang-card:hover {
+  box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.5);
+}
+.lang-logo {
+  transition: transform 0.5s;
+}
+
+.lang-card .lang-logo:hover {
+  cursor: pointer;
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.hed-fav{
+    transform: rotateY(180deg);
+}
+
+
+
