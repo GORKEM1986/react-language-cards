@@ -1,4 +1,4 @@
-https://github.com/GORKEM1986/react-language-cards
+https://react-language-cards-fg.netlify.app/
 
 
 # Getting Started with Create React App
