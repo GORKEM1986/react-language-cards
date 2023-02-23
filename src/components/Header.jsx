@@ -6,7 +6,7 @@ import reactLogo from "../assets/react.svg";
 const Header = () => {
   return (
     <div>
-      <Container className="hed-fav">
+      <Container >
         <Image src={reactLogo} width="250px" />
       </Container>
     </div>
